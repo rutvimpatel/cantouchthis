@@ -1,2 +1,2 @@
 # cantouchthis
- test repo for our Hammer.js simulation
+ test repo for our Hammer.js example
